@@ -1,2 +1,1 @@
-# tp-1
-just for fun ...
+this is for fun
